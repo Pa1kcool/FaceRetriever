@@ -12,7 +12,7 @@
 
 <h2 align="center">FACE FIND</h2>
 
-<h3 align="center">Submission for Microsoft Engage 2022</h3>
+<h3 align="center"></h3>
 
 <p align="center">
 
